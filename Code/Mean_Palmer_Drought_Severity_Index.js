@@ -31,7 +31,7 @@ for (var year = 2000; year <= 2020; year++) {
         .set('year', year);
     pop_col = pop_col.merge(ee.ImageCollection([popWeight_img]));
 }
-// 添加2020-2024年使用2020年数据
+// Using 2020 population data from 2001-2024
 for (var year = 2021; year <= 2024; year++) {
     var popWeight_img = ee.Image('WorldPop/GP/100m/pop/BRA_2020')
         .set('year', year);
