@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/atmospheric_pressure';
+var folder = 'atmospheric_pressure';
 
 
 // Step 1:  Preparing study sites  
