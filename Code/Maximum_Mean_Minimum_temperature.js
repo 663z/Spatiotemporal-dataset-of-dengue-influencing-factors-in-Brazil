@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/max_mean_min_temp';
+var folder = 'max_mean_min_temp';
 
 
 // Step 1:  Preparing study sites   
