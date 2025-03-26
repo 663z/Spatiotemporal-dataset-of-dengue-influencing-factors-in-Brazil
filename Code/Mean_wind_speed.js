@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/WindSpeed';
+var folder = 'WindSpeed';
 
 
 // Step 1:  Preparing study sites 
