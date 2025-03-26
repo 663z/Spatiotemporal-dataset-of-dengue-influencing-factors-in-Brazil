@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/NDVI';
+var folder = 'NDVI';
 
 
 // Step 1:  Preparing study sites  
