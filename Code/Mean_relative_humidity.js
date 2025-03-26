@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/RH';
+var folder = 'RH';
 
 
 // Step 1:  Preparing study sites  
