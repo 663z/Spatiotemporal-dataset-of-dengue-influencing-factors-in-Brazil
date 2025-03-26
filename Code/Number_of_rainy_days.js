@@ -1,5 +1,5 @@
 // defining the folder for saving data 
-var folder = 'gee_gain/Number_of_rainy_days';
+var folder = 'Number_of_rainy_days';
 
 
 // Step 1:  Preparing study sites 
